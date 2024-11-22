@@ -1,0 +1,24 @@
+
+table {
+  width: 40%;
+  border-collapse: collapse;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+th, td {
+  border: 1px solid;
+  text-align: center;
+}
+
+th.sign-in{
+  background-color: #3498db;
+  color: white;
+  height: 30px;
+}
+
+button.action-btn {
+  margin-right: 12px;
+}
